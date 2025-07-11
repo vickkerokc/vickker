@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Vickker Productions</title>
-    <link href="https://vickkerokc.github.io/feed.xml" rel="self" />
-    <link href="https://vickkerokc.github.io" />
+    <link href="https://vickkerokc.github.io/vickker/feed.xml" rel="self" />
+    <link href="https://vickkerokc.github.io/vickker" />
     <updated>2025-07-11T16:15:05-05:00</updated>
     <author>
         <name>Vicki Langford</name>
     </author>
-    <id>https://vickkerokc.github.io</id>
+    <id>https://vickkerokc.github.io/vickker</id>
 
     <entry>
         <title>Vickker Productions </title>
         <author>
             <name>Vicki Langford</name>
         </author>
-        <link href="https://vickkerokc.github.io/vickker-productions.html"/>
-        <id>https://vickkerokc.github.io/vickker-productions.html</id>
+        <link href="https://vickkerokc.github.io/vickker/vickker-productions.html"/>
+        <id>https://vickkerokc.github.io/vickker/vickker-productions.html</id>
 
         <updated>2025-07-11T15:13:14-05:00</updated>
             <summary>
