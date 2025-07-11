@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vickker Productions</title>
+    <link href="https://vickkerokc.github.io/feed.xml" rel="self" />
+    <link href="https://vickkerokc.github.io" />
+    <updated>2025-07-11T15:55:24-05:00</updated>
+    <author>
+        <name>Vicki Langford</name>
+    </author>
+    <id>https://vickkerokc.github.io</id>
+
+    <entry>
+        <title>Vickker Productions </title>
+        <author>
+            <name>Vicki Langford</name>
+        </author>
+        <link href="https://vickkerokc.github.io/vickker-productions.html"/>
+        <id>https://vickkerokc.github.io/vickker-productions.html</id>
+
+        <updated>2025-07-11T15:13:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Art and Heart Creators. I want to create awareness for artist I love. For the unseen, unheard.Create. I too am a creator and I want to share those creations.Collaborate. I want to work together with other creators.Rhythm. There's a harmony to life, a rhythm. If&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="art-and-heart">
+      Art and Heart
+    </h2>
+
+  <p>
+    
+  </p>
+
+  <ol>
+    <li><strong>Creators</strong>. I want to create awareness for artist I love. For the unseen, unheard.</li><li><strong>Create</strong>. I too am a creator and I want to share those creations.</li><li><strong>Collaborate</strong>. I want to work together with other creators.</li><li><strong>Rhythm</strong>. There's a harmony to life, a rhythm.  If you don't like your life's symphony, its possible to create some new harmonies.</li><li><strong>Explore</strong>. Being ever curious, curious enough to actually listen.&nbsp;</li>
+  </ol>
+            ]]>
+        </content>
+    </entry>
+</feed>

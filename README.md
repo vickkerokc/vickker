@@ -1,2 +1,0 @@
-# vickker
-Vickker Publii website
