@@ -1,12 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Vickker Productions</title>
+    <title>The Vickker </title>
     <link href="https://vickkerokc.github.io/vickker/feed.xml" rel="self" />
     <link href="https://vickkerokc.github.io/vickker" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-07-15T12:18:44-05:00</updated>
     <author>
         <name>Vicki Langford</name>
     </author>
     <id>https://vickkerokc.github.io/vickker</id>
 
+    <entry>
+        <title>floating through the air</title>
+        <author>
+            <name>Vicki Langford</name>
+        </author>
+        <link href="https://vickkerokc.github.io/vickker/floating-through-the-air.html"/>
+        <id>https://vickkerokc.github.io/vickker/floating-through-the-air.html</id>
+            <category term="Poems"/>
+
+        <updated>2023-06-22T12:16:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    i'm a big balloon floating through the air I have a long string it flails around unattached, I float higher and higher stuck in the clouds please someone grab it hold it tight, keep me grounded please someone let me go don't hold me back&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    i'm a big balloon
+<br>floating through the air
+<br>I have a long string
+<br>it flails around
+<br>unattached,
+<br>I float higher and higher
+<br>stuck in the clouds
+<br>
+<br>please someone grab it
+<br>hold it tight,
+<br>keep me grounded
+<br>
+<br>please someone let me go
+<br>don't hold me back
+<br>
+<br>back and forth
+<br>hold it
+<br>let it go
+<br>
+<br>the string is my physical form
+<br>the balloon is my mental state
+<br>I've always had a love-hate relationship with my physical form.
+<br>give the string for free to anyone willing to grab it
+<br>pull the string away and never let anyone get close
+<br>
+<br>keep the string taut
+<br>maintain a safe distance from its holder
+<br>
+<br>Wait, I don't need another to keep me grounded
+<br>another to prove I'm worthy
+<br>I can hold my own string
+<br>
+<br>holding my string
+<br>complete and aware
+<br>healthy safe
+<br>being my whole self
+<br>I show up in the world
+<br>grounded and flying high
+<br>
+<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Overthinking</title>
+        <author>
+            <name>Vicki Langford</name>
+        </author>
+        <link href="https://vickkerokc.github.io/vickker/overthinking.html"/>
+        <id>https://vickkerokc.github.io/vickker/overthinking.html</id>
+            <category term="Lyrics"/>
+
+        <updated>2022-09-19T11:55:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    V1 thinking of you thinking of me are you i hope you are thinking of you having a good time did you i hope you did So many thoughts swirling around Why you Let me think on that Overthinking Lets not over think this V2&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <hr class="separator separator--dots" />
+
+  <p>
+    <strong>V1</strong><br>thinking of you thinking of me
+<br>are you
+<br>i hope you are
+<br>
+<br>thinking of you having a good time
+<br>did you
+<br>i hope you did
+<br>
+<br>So many thoughts swirling around
+<br>Why you
+<br>Let me think on that
+<br>
+<br>Overthinking
+<br>Lets not over think this
+<br>
+<br>
+<strong>V2</strong><br>thinking of you being my muse
+<br>are you
+<br>you already are
+<br>
+<br>thinking of you thinking it thru
+<br>did you
+<br>I hope you did
+<br><br>Overthinking
+<br>Lets not over think this
+<br>
+<br><strong>Chorus</strong>
+<br>Lo key stressin
+<br>Borderline obsessin
+<br>Wishful thinking
+<br>But theres only right now
+<br>This moment
+<br>
+<br>Lo key stressin
+<br>Borderline obsessin
+<br>Wishful thinking
+<br>But theres only right now
+<br>This moment
+<br>
+<br><strong>Bridge</strong>
+<br>
+<br>thinking about all the things
+<br>there are to think about
+<br>and thinking of you
+<br>
+<br>Overthinking
+<br><br><strong>SOLO</strong>
+<br>
+<br><strong>V3</strong><br>thinking of you thinking of me
+<br>are you
+<br>i hope you are
+<br>
+<br>thinking of you having a good time
+<br>did you
+<br>i hope you did
+<br>
+<br>Overthinking
+<br>Lets not over think this
+<br>
+<br>
+<br>
+  </p>
+<hr class="separator separator--dots" />
+
+  <p class="msg msg--highlight">
+    Lyrics by Vicki Langford.&nbsp; Guitar: Marty Simon.&nbsp; Drums:&nbsp; Zev Stein.&nbsp;
+  </p>
+
+  <p>
+    
+  </p>
+<div><p><audio loading="lazy" controls>
+  <source src="2023-0605-overthinking.mp4" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio></p></div>
+            ]]>
+        </content>
+    </entry>
 </feed>

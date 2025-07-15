@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Vickker Productions",
+    "title": "The Vickker ",
     "description": "",
     "home_page_url": "https://vickkerokc.github.io/vickker",
     "feed_url": "https://vickkerokc.github.io/vickker/feed.json",
@@ -9,5 +9,35 @@
         "name": "Vicki Langford"
     },
     "items": [
+        {
+            "id": "https://vickkerokc.github.io/vickker/floating-through-the-air.html",
+            "url": "https://vickkerokc.github.io/vickker/floating-through-the-air.html",
+            "title": "floating through the air",
+            "summary": "i'm a big balloon floating through the air I have a long string it flails around unattached, I float higher and higher stuck in the clouds please someone grab it hold it tight, keep me grounded please someone let me go don't hold me back&hellip;",
+            "content_html": "\n  <p>\n    i'm a big balloon\n<br>floating through the air\n<br>I have a long string\n<br>it flails around\n<br>unattached,\n<br>I float higher and higher\n<br>stuck in the clouds\n<br>\n<br>please someone grab it\n<br>hold it tight,\n<br>keep me grounded\n<br>\n<br>please someone let me go\n<br>don't hold me back\n<br>\n<br>back and forth\n<br>hold it\n<br>let it go\n<br>\n<br>the string is my physical form\n<br>the balloon is my mental state\n<br>I've always had a love-hate relationship with my physical form.\n<br>give the string for free to anyone willing to grab it\n<br>pull the string away and never let anyone get close\n<br>\n<br>keep the string taut\n<br>maintain a safe distance from its holder\n<br>\n<br>Wait, I don't need another to keep me grounded\n<br>another to prove I'm worthy\n<br>I can hold my own string\n<br>\n<br>holding my string\n<br>complete and aware\n<br>healthy safe\n<br>being my whole self\n<br>I show up in the world\n<br>grounded and flying high\n<br>\n<br>\n  </p>",
+            "author": {
+                "name": "Vicki Langford"
+            },
+            "tags": [
+                   "Poems"
+            ],
+            "date_published": "2023-06-22T12:16:00-05:00",
+            "date_modified": "2025-07-15T12:18:44-05:00"
+        },
+        {
+            "id": "https://vickkerokc.github.io/vickker/overthinking.html",
+            "url": "https://vickkerokc.github.io/vickker/overthinking.html",
+            "title": "Overthinking",
+            "summary": "V1 thinking of you thinking of me are you i hope you are thinking of you having a good time did you i hope you did So many thoughts swirling around Why you Let me think on that Overthinking Lets not over think this V2&hellip;",
+            "content_html": "<hr class=\"separator separator--dots\" />\n\n  <p>\n    <strong>V1</strong><br>thinking of you thinking of me\n<br>are you\n<br>i hope you are\n<br>\n<br>thinking of you having a good time\n<br>did you\n<br>i hope you did\n<br>\n<br>So many thoughts swirling around\n<br>Why you\n<br>Let me think on that\n<br>\n<br>Overthinking\n<br>Lets not over think this\n<br>\n<br>\n<strong>V2</strong><br>thinking of you being my muse\n<br>are you\n<br>you already are\n<br>\n<br>thinking of you thinking it thru\n<br>did you\n<br>I hope you did\n<br><br>Overthinking\n<br>Lets not over think this\n<br>\n<br><strong>Chorus</strong>\n<br>Lo key stressin\n<br>Borderline obsessin\n<br>Wishful thinking\n<br>But theres only right now\n<br>This moment\n<br>\n<br>Lo key stressin\n<br>Borderline obsessin\n<br>Wishful thinking\n<br>But theres only right now\n<br>This moment\n<br>\n<br><strong>Bridge</strong>\n<br>\n<br>thinking about all the things\n<br>there are to think about\n<br>and thinking of you\n<br>\n<br>Overthinking\n<br><br><strong>SOLO</strong>\n<br>\n<br><strong>V3</strong><br>thinking of you thinking of me\n<br>are you\n<br>i hope you are\n<br>\n<br>thinking of you having a good time\n<br>did you\n<br>i hope you did\n<br>\n<br>Overthinking\n<br>Lets not over think this\n<br>\n<br>\n<br>\n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p class=\"msg msg--highlight\">\n    Lyrics by Vicki Langford.&nbsp; Guitar: Marty Simon.&nbsp; Drums:&nbsp; Zev Stein.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n<div><p><audio loading=\"lazy\" controls>\n  <source src=\"2023-0605-overthinking.mp4\" type=\"audio/mpeg\">\n  Your browser does not support the audio element.\n</audio></p></div>",
+            "author": {
+                "name": "Vicki Langford"
+            },
+            "tags": [
+                   "Lyrics"
+            ],
+            "date_published": "2022-09-19T11:55:00-05:00",
+            "date_modified": "2025-07-15T12:11:48-05:00"
+        }
     ]
 }
